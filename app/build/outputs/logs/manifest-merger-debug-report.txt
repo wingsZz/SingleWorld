@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:3.0.4] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/32f99e3371269a4e9c999b669e8c4c07/BaseRecyclerViewAdapterHelper-3.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/27ff50a3a075a0fba33cf6830e0671f8/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/49813990278baf26e71214410743bb7f/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/eef3a7264aaffa62629178ddb096686f/core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/f80e0d52ad2aff3641572cb49c44bc5c/ijkplayer-java-0.8.8/AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv5:0.8.8] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/c647656154ccfa0d371635643b98daa4/ijkplayer-armv5-0.8.8/AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.8] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/9ff46b75040069d0f0d6fdf709a00d90/ijkplayer-armv7a-0.8.8/AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-arm64:0.8.8] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/b2460818df7cfd86d2c9e8f79ecc8eb5/ijkplayer-arm64-0.8.8/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/f4832ae92cadcdaf8e33c6d014b0b53f/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/be63d68230d0f63b5fce3d174e4777b3/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/b2e8fb3b4dc01b830a22eacb89595c86/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/bac2b948de5f401abc99309be1966781/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/012098a767bd9d5174bd69c59dc17944/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/5de48cdd3fb94e54e20ceed475cd9534/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/b444cbef306a820a310c166cda30b07f/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/655d1703fa17f7d67be07f6ea5fd5720/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/e252c2c1d2103bf41888b889ed406fbf/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/98b198971c483293d7b1ab90f9bd34d8/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/df1482d0b009cdbc2d09c51fa3f345b1/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/f640cda1ed0bc56cce592cef85ac50fa/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/801b324b00972a806ca34cbad3512c5c/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/ab04dbea0d71f8c9db699d73d5e0b5c2/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/8ecb1d4b893bae6d7e2951d3acf9fbf2/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/1afa1c910eb3f1307aaab995a69c0efc/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/fb3151bff55af478b1bd032b9b324f8c/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/08e66161291ee378e74003a278616e5c/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/9bef92497b5ca8539058f9aeb96ee927/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/bb1b945c179aafbd004af859c253717b/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:5:5-7:35
+	android:glEsVersion
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:6:9-41
+	android:required
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:7:9-32
+uses-permission#android.permission.CAMERA
+ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:11:22-78
+application
+ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:13:5-35:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/27ff50a3a075a0fba33cf6830e0671f8/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/27ff50a3a075a0fba33cf6830e0671f8/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/f640cda1ed0bc56cce592cef85ac50fa/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/f640cda1ed0bc56cce592cef85ac50fa/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/801b324b00972a806ca34cbad3512c5c/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/801b324b00972a806ca34cbad3512c5c/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/f640cda1ed0bc56cce592cef85ac50fa/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.soul.android.single.world.MainActivity
+ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.soul.android.single.world.camera.LiveCameraActivity
+ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:27:9-63
+	android:name
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:27:19-60
+activity#com.soul.android.single.world.player.TextureVideoPlayerActivity
+ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:28:9-71
+	android:name
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:28:19-68
+activity#com.soul.android.single.world.opengl.OpenGLDrawActivity
+ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:29:9-63
+	android:name
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:29:19-60
+activity#com.soul.android.single.world.alpha.AlphaMovieActivity
+ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:30:9-62
+	android:name
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:30:19-59
+activity#com.soul.android.single.world.codec.decode.DecodeActivity
+ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:31:9-65
+	android:name
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:31:19-62
+activity#com.soul.android.single.world.opengl.yuv.YUVConvertActivity
+ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:32:9-67
+	android:name
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:32:19-64
+activity#com.soul.android.single.world.opengl.vao.VaoActivity
+ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:33:9-60
+	android:name
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:33:19-57
+activity#com.soul.android.single.world.opengl.fbo.FboActivity
+ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:34:9-60
+	android:name
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml:34:19-57
+uses-sdk
+INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:3.0.4] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/32f99e3371269a4e9c999b669e8c4c07/BaseRecyclerViewAdapterHelper-3.0.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:3.0.4] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/32f99e3371269a4e9c999b669e8c4c07/BaseRecyclerViewAdapterHelper-3.0.4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/27ff50a3a075a0fba33cf6830e0671f8/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/27ff50a3a075a0fba33cf6830e0671f8/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/49813990278baf26e71214410743bb7f/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/49813990278baf26e71214410743bb7f/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/eef3a7264aaffa62629178ddb096686f/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/eef3a7264aaffa62629178ddb096686f/core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/f80e0d52ad2aff3641572cb49c44bc5c/ijkplayer-java-0.8.8/AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/f80e0d52ad2aff3641572cb49c44bc5c/ijkplayer-java-0.8.8/AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv5:0.8.8] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/c647656154ccfa0d371635643b98daa4/ijkplayer-armv5-0.8.8/AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv5:0.8.8] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/c647656154ccfa0d371635643b98daa4/ijkplayer-armv5-0.8.8/AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.8] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/9ff46b75040069d0f0d6fdf709a00d90/ijkplayer-armv7a-0.8.8/AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.8] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/9ff46b75040069d0f0d6fdf709a00d90/ijkplayer-armv7a-0.8.8/AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-arm64:0.8.8] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/b2460818df7cfd86d2c9e8f79ecc8eb5/ijkplayer-arm64-0.8.8/AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-arm64:0.8.8] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/b2460818df7cfd86d2c9e8f79ecc8eb5/ijkplayer-arm64-0.8.8/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/f4832ae92cadcdaf8e33c6d014b0b53f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/f4832ae92cadcdaf8e33c6d014b0b53f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/be63d68230d0f63b5fce3d174e4777b3/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/be63d68230d0f63b5fce3d174e4777b3/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/b2e8fb3b4dc01b830a22eacb89595c86/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/b2e8fb3b4dc01b830a22eacb89595c86/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/bac2b948de5f401abc99309be1966781/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/bac2b948de5f401abc99309be1966781/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/012098a767bd9d5174bd69c59dc17944/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/012098a767bd9d5174bd69c59dc17944/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/5de48cdd3fb94e54e20ceed475cd9534/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/5de48cdd3fb94e54e20ceed475cd9534/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/b444cbef306a820a310c166cda30b07f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/b444cbef306a820a310c166cda30b07f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/655d1703fa17f7d67be07f6ea5fd5720/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/655d1703fa17f7d67be07f6ea5fd5720/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/e252c2c1d2103bf41888b889ed406fbf/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/e252c2c1d2103bf41888b889ed406fbf/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/98b198971c483293d7b1ab90f9bd34d8/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/98b198971c483293d7b1ab90f9bd34d8/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/df1482d0b009cdbc2d09c51fa3f345b1/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/df1482d0b009cdbc2d09c51fa3f345b1/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/f640cda1ed0bc56cce592cef85ac50fa/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/f640cda1ed0bc56cce592cef85ac50fa/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/801b324b00972a806ca34cbad3512c5c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/801b324b00972a806ca34cbad3512c5c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/ab04dbea0d71f8c9db699d73d5e0b5c2/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/ab04dbea0d71f8c9db699d73d5e0b5c2/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/8ecb1d4b893bae6d7e2951d3acf9fbf2/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/8ecb1d4b893bae6d7e2951d3acf9fbf2/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/1afa1c910eb3f1307aaab995a69c0efc/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/1afa1c910eb3f1307aaab995a69c0efc/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/fb3151bff55af478b1bd032b9b324f8c/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/fb3151bff55af478b1bd032b9b324f8c/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/08e66161291ee378e74003a278616e5c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/08e66161291ee378e74003a278616e5c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/9bef92497b5ca8539058f9aeb96ee927/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/9bef92497b5ca8539058f9aeb96ee927/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/bb1b945c179aafbd004af859c253717b/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yueqi.zhou/.gradle/caches/transforms-2/files-2.1/bb1b945c179aafbd004af859c253717b/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/AndroidManifest.xml

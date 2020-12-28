@@ -1,0 +1,69 @@
+include ':buildSrc'
+rootProject.name='SingleWorld'
+include ':app'
+
+gradle.addBuildListener(new BuildListener() {
+    /**
+     * 执行一次
+     * 开始gradle构建
+     * @param gradle The build which is being started. Never null.
+     */
+    @Override
+    void buildStarted(Gradle gradle) {
+        println("---- gradle build start -----")
+    }
+
+    /**
+     * 执行一次
+     * 执行settings.gradle
+     * @param settings The settings. Never null.
+     */
+    @Override
+    void settingsEvaluated(Settings settings) {
+        println("---- gradle settings evaluated -----" + settings.getGradle())
+    }
+
+    /**
+     * 执行一次
+     * @param gradle The build which has been loaded. Never null.
+     */
+    @Override
+    void projectsLoaded(Gradle gradle) {
+        println("---- gradle project loaded -----")
+    }
+
+    /**
+     * 执行一次
+     * 在所有project配置完成后执行
+     * @param gradle The build which has been evaluated. Never null.
+     */
+    @Override
+    void projectsEvaluated(Gradle gradle) {
+        println("---- gradle project evaluated -----")
+    }
+
+    /**
+     * 执行一次
+     * @param result The result of the build. Never null.
+     */
+    @Override
+    void buildFinished(BuildResult result) {
+        println("---- gradle build finished -----")
+    }
+})
+
+/**
+ * 这里的回调都会执行多次
+ * 具体执行的次数由settings.gradle配置的project数目有关
+ */
+gradle.addProjectEvaluationListener(new ProjectEvaluationListener() {
+    @Override
+    void beforeEvaluate(Project project) {
+        println("---- gradle before evaluate -----")
+    }
+
+    @Override
+    void afterEvaluate(Project project, ProjectState state) {
+        println("---- gradle after evaluate -----")
+    }
+})
