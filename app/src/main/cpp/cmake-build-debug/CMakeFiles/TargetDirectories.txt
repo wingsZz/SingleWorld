@@ -1,3 +1,0 @@
-/Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/yueqi.zhou/demo/android/SingleWorld/app/src/main/cpp/cmake-build-debug/CMakeFiles/native_render.dir

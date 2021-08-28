@@ -1,1 +1,0 @@
-/Users/yueqi.zhou/ndk/android-ndk-r20b/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android29 -fPIC -g  -shared -Wl,-soname,libnative_render.so -o libnative_render.so CMakeFiles/native_render.dir/sample/NV21Sample.cpp.o  -llog-lib-NOTFOUND -lEGL -lGLESv3  -static-libstdc++ -latomic -lm 
